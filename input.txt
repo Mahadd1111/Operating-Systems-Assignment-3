@@ -1,0 +1,6 @@
+TaskID TaskValue UnitsCount UnitID1 UnitID2 UnitID3 UnitID4 UnitID5
+0 123 5 4 1 3 0 2
+2 -3 4 3 2 1 0
+1 78 3 1 2 4
+3 9 2 0 4
+4 100 1 2
